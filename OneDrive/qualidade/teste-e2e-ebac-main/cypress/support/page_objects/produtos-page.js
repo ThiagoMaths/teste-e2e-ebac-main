@@ -30,7 +30,7 @@ class ProdutosPage {
         cy.get('#place_order').should('exist')
 
         }
-e
+
      }
    
 
